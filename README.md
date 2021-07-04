@@ -7,7 +7,8 @@
 - 😄 Pronouns: rasyad
 - ⚡ Fun fact: not drinking coffe anymore, but tea is always welcome! 😄
 
-- [![Rasyad's github stats](https://github-readme-stats.vercel.app/api?username=mrasyadc&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrasyadc&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Cool stats!
+[![Rasyad's github stats](https://github-readme-stats.vercel.app/api?username=mrasyadc&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrasyadc&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
