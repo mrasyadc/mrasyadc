@@ -6,8 +6,8 @@
 - 💬 Ask me about laravel, tailwind, package bundler, react, Java
 - 😄 Pronouns: rasyad
 - ⚡ Fun fact: not drinking coffe anymore, but tea is always welcome! 😄
-- - 📫 **Contact me by**:
-- Email (zhaoy [AT] cmu.edu)
+- 📫 **Contact me by**:
+Email (mrcrasyad26 [AT] gmail.com)
 
 ----
 
