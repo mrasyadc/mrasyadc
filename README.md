@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on laravel and tailwind projects
-- 🌱 I’m currently learning typescript, react, nextjs, and also laravel
+- 🌱 I’m currently learning typescript, react, nextjs, docker, and also laravel
 - 👯 I’m looking to collaborate on components design system
 - 💬 Ask me about laravel, tailwind, package bundler, react, Java
 - 😄 Pronouns: rasyad
