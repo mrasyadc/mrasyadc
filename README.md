@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on components design system
 - 💬 Ask me about laravel, tailwind, package bundler, react, Java
 - 😄 Pronouns: rasyad
-- ⚡ Fun fact: not drinking coffe anymore, but tea is always welcome! 😄
+- ⚡ Fun fact: highest rank on valorant: gold 1 😄
 - 📫 **Contact me by**:
 Email (mrcrasyad26 [AT] gmail.com)
 
