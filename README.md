@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on components design system
 - 💬 Ask me about laravel, tailwind, package bundler, react, Java
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: highest rank on valorant: gold 3 😄
+- ⚡ Fun fact: highest rank on valorant: platinum 1 😄
 - 📫 **Contact me by**:
 Email (mrcrasyad26 [AT] gmail.com)
 
