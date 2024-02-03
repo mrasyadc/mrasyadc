@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on laravel and tailwind projects
-- 🌱 I’m currently learning swift, go, typescript, react, nextjs, docker, and also laravel
+- 🌱 I’m currently learning swift, go, python, typescript, react, nextjs, docker, and also laravel
 - 👯 I’m looking to collaborate on components design system
-- 💬 Ask me about laravel, tailwind, package bundler, react, Java
+- 💬 Ask me about laravel, tailwind, package bundler, react, python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: highest rank on valorant: platinum 3 😄
 - 📫 **Contact me by**:
